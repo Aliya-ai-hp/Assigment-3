@@ -50,13 +50,13 @@ html,body{
    margin-top: 0px;
 }
 #pharagraph2{
-    width: 70%;
+    width: 65%;
    margin-top: 10px;
    font-size: 18px;
   
 }
 #pharagraph3{
-    width: 40%;
+    width: 50%;
     font-size: 18px;
     margin-top: 20px;
     margin-bottom: 40px;
@@ -66,7 +66,7 @@ html,body{
     display: flex;
     align-items: center;
     margin-top: 50px;
-    margin-left: 210px;
+    margin-left: 150px;
 }
 #triangle{
     width: 30px;
@@ -122,5 +122,8 @@ border-bottom:90px solid white;
 .footer>h2{
     font-size: 40px;
     color: white;
-    margin-left: 140px;
+    margin-left: 100px;
 }
+
+
+
