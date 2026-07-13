@@ -1,4 +1,4 @@
-*{
+ *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -36,7 +36,7 @@ html,body{
 }
 #content{
     margin-right: 30px;
-    margin-left: 140px;
+    margin-left: 180px;
     
 }
 #logo2{
@@ -54,23 +54,23 @@ html,body{
    margin-top: 0px;
 }
 #pharagraph2{
-    width: 60%;
+    width: 85%;
    margin-top: 10px;
-   font-size: 18px;
+   font-size: 20px;
   
 }
 #pharagraph3{
-    width: 50%;
-    font-size: 18px;
+    width: 85%;
+    font-size: 20px;
     margin-top: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 90px;
    
 }
 .section-heading{
     display: flex;
     align-items: center;
     margin-top: 50px;
-    margin-left: 130px;
+    margin-left: 190px;
 }
 #triangle{
     width: 30px;
@@ -86,8 +86,9 @@ html,body{
     justify-content: space-between;
     align-items: center;
     margin-top: 40px;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 12%;
+    margin-right: 15%;
+    background: cover;
 }
 .clubs{
     text-align: center;
@@ -128,8 +129,7 @@ border-bottom:90px solid white;
 .footer>h2{
     font-size: 40px;
     color: white;
-    margin-left: 80px;
+    margin-left: 130px;
 }
-
 
 
