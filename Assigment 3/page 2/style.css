@@ -50,7 +50,7 @@ html,body{
    margin-top: 0px;
 }
 #pharagraph2{
-    width: 40%;
+    width: 70%;
    margin-top: 10px;
    font-size: 18px;
   
@@ -74,7 +74,7 @@ html,body{
 .section-heading>h2{
     font-size: 50px;
     font-weight: bolder;
-    margin-left: 5px;
+    margin-left: 2px;
    margin-bottom: 8px;
 }
 .club-row{
@@ -122,8 +122,5 @@ border-bottom:90px solid white;
 .footer>h2{
     font-size: 40px;
     color: white;
-    margin-left: 200px;
+    margin-left: 140px;
 }
-
-
-
